@@ -243,8 +243,11 @@ header .text-header{
 
 .service p{
     font-weight: 300;
-    text-align: center;
     padding: 5px 10px;
+}
+
+.paragraph-service{
+    text-align: center;
 }
 
 /* footer */
